@@ -12,11 +12,10 @@ docs-en:
       - title:  Navigation
         url:    /docs/en/navigation
 
+sidebar:
+  nav: docs-en
         
 header:
-  sidebar:
-    - title:      Start
-    nav: docs-en
   - titles:
       # @start locale config
       en      : &EN       Document11
