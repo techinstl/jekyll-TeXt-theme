@@ -22,8 +22,10 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /archive.html
-    
+    #url: /archive.html
+    sidebar:
+        nav: docs-en
+      
   - titles:
       # @start locale config
       en      : &EN       Archive
@@ -89,6 +91,4 @@ docs-en:
       - title:  Navigation
         url:    /docs/en/navigation
         
-sidebar:
-  en      : &EN       Docs
-  nav: docs-en
+
