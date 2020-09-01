@@ -12,8 +12,7 @@ docs-en:
       - title:  Navigation
         url:    /docs/en/navigation
 
-sidebar:
-  nav: docs-en
+
         
 header:
   - titles:
@@ -21,6 +20,8 @@ header:
       en      : &EN       Document11
       # @end locale config
     #url: /archive.html
+    sidebar:
+      nav: docs-en
 
       
   - titles:
