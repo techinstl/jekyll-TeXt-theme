@@ -20,6 +20,8 @@ header:
       en      : &EN       Document11
       # @end locale config
     url: /docs/landing.html
+    sidebar:
+      nav: docs-en
 
       
   - titles:
